@@ -20,6 +20,6 @@
 
 **Step 3:** Then file the below details like **Application name**, **Homepage URL** like http://localhost:<port_number> or https://localhost:<port_number>, **Application description** is optional after that add **Authorization callback URL** like http://localhost:<port_number>/login/oauth2/code/github or https://localhost:<port_number>/login/oauth2/code/github then click on **Register application** button
 
-Note: After port number “login/oauth2/code/github” is fixed for redirect URL.
+**Note:** After port number “login/oauth2/code/github” is fixed for redirect URL.
 
 ![image](https://github.com/nirmalakumarsahu/spring-boot-oauth2.0-github/assets/62144558/bbb5c2d2-17fc-45d3-9e89-402a72bf9d30)
