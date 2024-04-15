@@ -30,7 +30,7 @@
 
 **Step 5:** Copy the **Client secret** after that scoll down and click on **Update application**.
 
-![image](https://github.com/nirmalakumarsahu/spring-boot-oauth2.0-github/assets/62144558/d7eb0000-4cf8-4153-a96e-b102a2d98638)
+![image](https://github.com/nirmalakumarsahu/spring-boot-oauth2.0-github/assets/62144558/0700710b-b8d6-4617-a684-a9dc8c89adbe)
 
 ## 2. Use the code
 
