@@ -26,7 +26,7 @@
 
 **Step 4:** Copy the **Client ID** and click on **Generate a new client secret** button.
 
-![image](https://github.com/nirmalakumarsahu/spring-boot-oauth2.0-github/assets/62144558/fc9c73cb-ba17-47a3-9b58-f7eb72fcb8e0)
+![image](https://github.com/nirmalakumarsahu/spring-boot-oauth2.0-github/assets/62144558/d85f418c-1127-4a5c-8e93-da9e73699802)
 
 **Step 5:** Copy the **Client secret** after that scoll down and click on **Update application**.
 
